@@ -1,4 +1,4 @@
-# Smart-Travel-Advisor
+# Explorers-Edge
 This is a web application that serves as a smart travel planner for users. It was designed and developed with a focus on local and crowd sourcing, utilizing clustering maps to help users locate places with ease, and integrated map functionality to enhance the user experience. The application also provides real-time information and location-based recommendations, thanks to the integration with the JavaScript Google API and Trip Advisor API.
 
 # Installation
